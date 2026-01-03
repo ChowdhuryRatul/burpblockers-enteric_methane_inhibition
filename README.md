@@ -102,7 +102,7 @@ conda activate methano_env
 
 ### Molecular Docking
 
-```mermaid
+
 flowchart TD
     A[Activate Conda Environment] --> B[Set Working Directory]
 
@@ -147,9 +147,6 @@ flowchart TD
     K --> L[Pose Extraction]
     L --> L1[Split All Poses]
     L --> L2[Extract Specific Poses]
-
-
-```
 
 ## Contrastive Learning
 
