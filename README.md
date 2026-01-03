@@ -105,6 +105,7 @@ conda activate methano_env
 
 flowchart TD
 
+
     A[Activate Conda Environment] --> B[Set Working Directory]
     B --> C[Prepare MCR Structure<br/>(PDB: 5G0R)]
     C --> C1[Retain Chains A, D, E, F]
