@@ -4,7 +4,7 @@
 
 Atmospheric methane (CH₄) is a major short-lived climate forcer, and mitigation of ruminant enteric methane represents one of the most impactful near-term climate interventions. This repository contains all computational pipelines, data processing scripts, machine learning models, and analysis workflows used in the accompanying manuscript:
 
-**Uncovering structural priors for inhibition of Ni(I) in methyl-coenzyme M reductase to identify non-toxic anti-methanogenic compounds**
+**Structural and Metabolic Characterizatrion of Ni(I)-inhibitors Provide a Robust Anti-Methanogenicity Scoring System**
 
 We present an integrated, structure-informed, AI-enabled framework for identifying safe, permeable, and biologically effective anti-methanogenic molecules, grounded in the biophysics of methyl-coenzyme M reductase (MCR) and its F430 Ni(I) cofactor.
 
